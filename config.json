@@ -1,0 +1,10 @@
+{
+  "name": "Roads (Test)",
+  "description": "Sample image project without annotations",
+  "type": "project",
+  "categories": [
+    "demo"
+  ],
+  "icon": "https://i.imgur.com/cHFnFSs.png",
+  "icon_cover": true
+}
