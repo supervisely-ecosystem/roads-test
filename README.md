@@ -27,7 +27,7 @@
 
  `roads_annotated` is an example project with annotated lemons and kiwifruits, with 6 images in it. 
 
-![](https://i.imgur.com/94p4Ysf.jpg)
+![](https://i.imgur.com/1bd7qXC.jpg)
 
 ## Description 
 
