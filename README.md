@@ -31,7 +31,7 @@
 
 ## Description 
 
-`lemons_annotated` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
+`roads_test` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
 
 ## Download
 
