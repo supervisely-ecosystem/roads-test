@@ -29,7 +29,7 @@
 
 ## Description 
 
-`roads_test` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
+`roads_test` is a small demo dataset, perfect for flash testing of segmentation models. It can be used to quickly test neural networks on a small amount of images.
 
 ## Download
 
@@ -37,9 +37,7 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/8WEI4I5
 
 ## Statistics
 
-Project contains 1 dataset with 1566 images in it, without. 
-
-![](https://i.imgur.com/x7xjiu8.jpg)
+Project contains 1 dataset with 1566 images in it, without annotations. 
 
 ## Examples
 
