@@ -41,7 +41,7 @@ Project contains 1 dataset with 1566 images in it, without annotations.
 
 ## Examples
 
-![](./project/ds1/img/00001658.png) ![](./project/ds1/img/00000944.png) ![](./project/ds1/img/00000264.png)
+![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00001658.png) ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00000944.png) ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00000264.png)
 
 ## How To Import
 
