@@ -43,7 +43,7 @@ Project contains 1 dataset with 1566 images in it, without.
 
 ## Examples
 
-![](.project/ds1/img/00001658.png) ![](.project/ds1/img/00000944.png) ![](.project/ds1/img/00000264.png)
+![](./project/ds1/img/00001658.png) ![](./project/ds1/img/00000944.png) ![](./project/ds1/img/00000264.png)
 
 ## How To Import
 
