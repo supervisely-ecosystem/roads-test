@@ -5,8 +5,6 @@
 
 ![icon]() 
 
-# Roads Test  
-
 <p align="center">
 
   <a href="#overview">Overview</a> •
@@ -25,7 +23,7 @@
 
 ## Overview 
 
- `roads_annotated` is an example project with annotated lemons and kiwifruits, with 6 images in it. 
+ `roads_test` is an example project with roads, with 156 images in it. 
 
 ![](https://i.imgur.com/1bd7qXC.jpg)
 
@@ -39,7 +37,7 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/8WEI4I5
 
 ## Statistics
 
-Project contains 1 dataset with 6 images in it, with a total of 26 annotated objects. 
+Project contains 1 dataset with 1566 images in it, without. 
 
 ![](https://i.imgur.com/x7xjiu8.jpg)
 
