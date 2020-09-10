@@ -24,7 +24,7 @@
 
 ## Overview 
 
- `roads_test` is an example project with roads, with 156 images in it. 
+ `roads_test` is an example project with road scenery, with 156 images in it. 
 
 ![](https://i.imgur.com/1bd7qXC.jpg)
 
