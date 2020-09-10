@@ -1,9 +1,10 @@
 {
   "name": "Roads (Test)",
-  "description": "Sample image project without annotations",
+  "description": "156 unlabeled images with roads",
   "type": "project",
   "categories": [
-    "demo"
+    "semantic segmentation",
+    "images"
   ],
   "icon": "https://i.imgur.com/cHFnFSs.png",
   "icon_cover": true
