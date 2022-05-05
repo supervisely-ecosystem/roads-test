@@ -47,13 +47,6 @@ Project contains 1 dataset with 1566 images in it, without annotations.
 
 ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00001658.png) ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00000944.png) ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00000264.png)
 
-## How To Import
-
-...
-
-
 ## Acknowledgement
 
-Images were provided by one of our customers [NPO Region](https://nporegion.ru/). 
-
-<img src="https://i.imgur.com/IQR1vGo.png" width="400" />
+Images were provided by one of our customers. 
