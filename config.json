@@ -3,8 +3,9 @@
   "description": "156 unlabeled images with roads",
   "type": "project",
   "categories": [
-    "semantic segmentation",
-    "images"
+    "import",
+    "images",
+    "project"
   ],
   "icon": "https://i.imgur.com/cHFnFSs.png",
   "icon_cover": true
