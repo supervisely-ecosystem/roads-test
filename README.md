@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/eco.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/5okD5w9.png" width="100"/> 
+<img src="media/icon.png" width="100"/> 
 
 # Roads Test  
 
@@ -29,7 +29,7 @@
 
  `roads_test` is an example project with road scenery, with 156 images in it. 
 
-![](https://i.imgur.com/1bd7qXC.jpg)
+![](media/ov1.jpeg)
 
 ## Description 
 
